@@ -149,6 +149,6 @@ Together, **WebRTC** handles the actual media streaming, while **Socket.IO** man
 
 ## 👨‍💻 Author  
 
-**Shubham Singh**  
+**Gaurav Singh**  
 
 🌐 [Live Demo](https://nexomeet-f.onrender.com)  
